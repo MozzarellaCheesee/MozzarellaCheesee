@@ -22,3 +22,32 @@
   </h1>
 </div>
 
+<div align="center">
+  <img src="https://i.pinimg.com/736x/1e/58/40/1e5840958893d2fc325c6b8d5af93ab8.jpg" width="600" height="300"/>
+</div>
+
+### 👨‍💻 About Me :
+I am a Full Stack Developer, DevOps, System Programmer <img src="https://i.pinimg.com/736x/f3/08/ae/f308aec2aceae5a59526e69f09c07abc.jpg" width="30"> from Russia.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and desktop applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I write personal projects or play the guitar.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Mozzarella-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/crvxiesd)
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" title="gcc" alt="gcc" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tauri/tauri-original.svg" title="Tauri" alt="Tauri" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
